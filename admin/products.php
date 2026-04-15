@@ -1,4 +1,5 @@
 <?php
+require_once '../config/config.php';
 require_once '../classes/Product.php';
 require_once '../classes/Category.php';
 require_once '../classes/Session.php';

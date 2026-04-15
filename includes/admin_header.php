@@ -131,7 +131,9 @@ if (!Session::isAdminLoggedIn()) {
 <div id="sidebar">
     <div class="admin-brand">
         <i class="fas fa-shopping-bag"></i>
-        <span>Namrata Admin</span>
+         <a class="navbar-brand fw-bold fs-3" href="index.php">
+            <span class="text-primary">Trendy</span>Threads
+        </a>
     </div>
     
     <nav class="mt-4">
